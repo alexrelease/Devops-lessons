@@ -1,0 +1,20 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.0  21660 12800 ?        Ss   15:11   0:00 /sbin/init
+root           2  0.0  0.0   2616  1444 ?        Sl   15:11   0:00 /init
+root           7  0.0  0.0   2616   132 ?        Sl   15:11   0:00 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --log-truncate
+root          49  0.0  0.1  50432 17040 ?        S<s  15:11   0:00 /usr/lib/systemd/systemd-journald
+root          92  0.0  0.0  23860  6036 ?        Ss   15:11   0:00 /usr/lib/systemd/systemd-udevd
+systemd+     130  0.0  0.0  21452 11872 ?        Ss   15:11   0:00 /usr/lib/systemd/systemd-resolved
+systemd+     132  0.0  0.0  91020  6568 ?        Ssl  15:11   0:00 /usr/lib/systemd/systemd-timesyncd
+root         138  0.0  0.0   4236  2652 ?        Ss   15:11   0:00 /usr/sbin/cron -f -P
+message+     139  0.0  0.0   9536  5168 ?        Ss   15:11   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         152  0.0  0.0  17976  8216 ?        Ss   15:11   0:00 /usr/lib/systemd/systemd-logind
+root         155  0.0  0.0 1756096 15880 ?       Ssl  15:11   0:00 /usr/libexec/wsl-pro-service -vv
+root         161  0.0  0.0   3160  1160 hvc0     Ss+  15:11   0:00 /sbin/agetty -o -p -- \u --noclear --keep-baud - 115200,38400,9600 vt220
+root         178  0.0  0.0   3116  1184 tty1     Ss+  15:11   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+syslog       181  0.0  0.0 222508  5308 ?        Ssl  15:11   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         199  0.0  0.1 107024 22404 ?        Ssl  15:11   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         283  0.0  0.0   2620   124 ?        Ss   15:11   0:00 /init
+root         284  0.0  0.0   2620   128 ?        S    15:11   0:00 /init
+alexandr     285  0.0  0.0   6204  5556 pts/0    Ss   15:11   0:00 -bash
+root         286  0.0  0.0   6660  4592 pts/1    Ss   15:11   0:00 /bin/login -f

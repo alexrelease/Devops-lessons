@@ -1,0 +1,11 @@
+Дата/время: 2025-10-31T18:23:00+03:00
+Хост: DESKTOP-DUESANH
+IP (WSL): 172.20.118.211
+Default gateway: 172.20.112.1
+
+TCP (первые 5 LISTEN):
+LISTEN 0 4096 127.0.0.53%lo:53     0.0.0.0:*
+LISTEN 0 4096 127.0.0.54:53        0.0.0.0:*
+
+HTTP check:
+curl -I https://ya.ru -> 302 Found

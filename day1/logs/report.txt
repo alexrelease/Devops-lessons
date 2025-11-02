@@ -1,0 +1,11 @@
+       ===  ОТЧЕТ   ===      
+Пользователь: alexandr
+Хост: DESKTOP-DUESANH
+Версия ядра: 5.15.153.1-microsoft-standard-WSL2
+Свободное место:   36G
+Топ-5 строк лога:
+      1 [ 2564.318481] systemd-journald[49]: Time jumped backwards, rotating.
+      1 [ 2101.671041] mini_init (203): drop_caches: 1
+      1 [  953.281492] systemd-journald[49]: Time jumped backwards, rotating.
+      1 [  600.610967] mini_init (203): drop_caches: 1
+      1 [   48.827068] hv_balloon: Max. dynamic memory size: 16346 MB
