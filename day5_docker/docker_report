@@ -1,0 +1,18 @@
+Дата: Thu Nov  6 18:53:45 MSK 2025
+_______________________________________
+Используемые команды:
+docker version
+docker ps
+docker images
+
+docker run -d --name webtest -p 8081:80 nginx:alpine # запустили докер webtest c портом 8081 (8081 - порт на  хост-машине):80 - порт внутри контейнера (где работает Nginx),
+alpine - специальная легковесная версия на базе Alpine Linux    
+
+docker ps проверка состояние контейнеров
+docker exec -it webtest sh # открытие терменала внутри контейнера для ввода основных команды управление контейнером
+docker stop 
+docker rm
+
+
+
+

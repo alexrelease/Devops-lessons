@@ -1,0 +1,21 @@
+Дата: $(date -Iseconds)
+Хост: $(hostname)
+
+== Топ процессов (ps) ==
+$(head -20 ps.txt)
+
+== Топ процессов (top) ==
+$(head -20 top.txt)
+
+== Сетевые слушатели ==
+$(head -20 sockets.txt)
+
+== Сервисы ==
+systemd-resolved:
+$(head -40 systemd-resolved.txt)
+
+systemd-networkd:
+$(head -40 systemd-networkd.txt)
+
+== Журналы (последние 50) ==
+$(head -50 journal.txt

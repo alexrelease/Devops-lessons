@@ -1,0 +1,50 @@
+Nov 02 16:22:56 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Connecting"
+Nov 02 16:22:56 DESKTOP-DUESANH wsl-pro-service[155]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Alexander/.ubuntupro/.address": open /mnt/c/Users/Alexander/.ubuntupro/.address: no such file or directory
+Nov 02 16:22:56 DESKTOP-DUESANH wsl-pro-service[155]: INFO Reconnecting to Windows host in 60 seconds
+Nov 02 16:22:56 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Nov 02 16:23:10 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:23:41 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:23:55 DESKTOP-DUESANH wsl-pro-service[155]: INFO Daemon: connecting to Windows Agent
+Nov 02 16:23:55 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Connecting"
+Nov 02 16:23:55 DESKTOP-DUESANH wsl-pro-service[155]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Alexander/.ubuntupro/.address": open /mnt/c/Users/Alexander/.ubuntupro/.address: no such file or directory
+Nov 02 16:23:55 DESKTOP-DUESANH wsl-pro-service[155]: INFO Reconnecting to Windows host in 60 seconds
+Nov 02 16:23:55 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Nov 02 16:24:14 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:24:46 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:24:54 DESKTOP-DUESANH wsl-pro-service[155]: INFO Daemon: connecting to Windows Agent
+Nov 02 16:24:54 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Connecting"
+Nov 02 16:24:54 DESKTOP-DUESANH wsl-pro-service[155]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Alexander/.ubuntupro/.address": open /mnt/c/Users/Alexander/.ubuntupro/.address: no such file or directory
+Nov 02 16:24:54 DESKTOP-DUESANH wsl-pro-service[155]: INFO Reconnecting to Windows host in 60 seconds
+Nov 02 16:24:54 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Nov 02 16:25:18 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:25:50 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:25:53 DESKTOP-DUESANH wsl-pro-service[155]: INFO Daemon: connecting to Windows Agent
+Nov 02 16:25:53 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Connecting"
+Nov 02 16:25:53 DESKTOP-DUESANH wsl-pro-service[155]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Alexander/.ubuntupro/.address": open /mnt/c/Users/Alexander/.ubuntupro/.address: no such file or directory
+Nov 02 16:25:53 DESKTOP-DUESANH wsl-pro-service[155]: INFO Reconnecting to Windows host in 60 seconds
+Nov 02 16:25:53 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Nov 02 16:26:22 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:26:52 DESKTOP-DUESANH systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+Nov 02 16:26:52 DESKTOP-DUESANH systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+Nov 02 16:26:52 DESKTOP-DUESANH systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+Nov 02 16:26:52 DESKTOP-DUESANH wsl-pro-service[155]: INFO Daemon: connecting to Windows Agent
+Nov 02 16:26:52 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Connecting"
+Nov 02 16:26:52 DESKTOP-DUESANH wsl-pro-service[155]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Alexander/.ubuntupro/.address": open /mnt/c/Users/Alexander/.ubuntupro/.address: no such file or directory
+Nov 02 16:26:52 DESKTOP-DUESANH wsl-pro-service[155]: INFO Reconnecting to Windows host in 60 seconds
+Nov 02 16:26:52 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Nov 02 16:26:54 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:27:26 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:27:51 DESKTOP-DUESANH wsl-pro-service[155]: INFO Daemon: connecting to Windows Agent
+Nov 02 16:27:51 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Connecting"
+Nov 02 16:27:51 DESKTOP-DUESANH wsl-pro-service[155]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Alexander/.ubuntupro/.address": open /mnt/c/Users/Alexander/.ubuntupro/.address: no such file or directory
+Nov 02 16:27:51 DESKTOP-DUESANH wsl-pro-service[155]: INFO Reconnecting to Windows host in 60 seconds
+Nov 02 16:27:51 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Nov 02 16:27:58 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:28:30 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:28:51 DESKTOP-DUESANH wsl-pro-service[155]: INFO Daemon: connecting to Windows Agent
+Nov 02 16:28:51 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Connecting"
+Nov 02 16:28:51 DESKTOP-DUESANH wsl-pro-service[155]: WARNING Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/Alexander/.ubuntupro/.address": open /mnt/c/Users/Alexander/.ubuntupro/.address: no such file or directory
+Nov 02 16:28:51 DESKTOP-DUESANH wsl-pro-service[155]: INFO Reconnecting to Windows host in 60 seconds
+Nov 02 16:28:51 DESKTOP-DUESANH wsl-pro-service[155]: DEBUG Updated systemd status to "Not connected: waiting to retry"
+Nov 02 16:29:02 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:29:34 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.

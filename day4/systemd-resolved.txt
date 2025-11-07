@@ -1,0 +1,24 @@
+● systemd-resolved.service - Network Name Resolution
+     Loaded: loaded (/usr/lib/systemd/system/systemd-resolved.service; enabled; preset: enabled)
+     Active: active (running) since Sun 2025-11-02 16:11:58 MSK; 8min ago
+       Docs: man:systemd-resolved.service(8)
+             man:org.freedesktop.resolve1(5)
+             https://www.freedesktop.org/wiki/Software/systemd/writing-network-configuration-managers
+             https://www.freedesktop.org/wiki/Software/systemd/writing-resolver-clients
+   Main PID: 137 (systemd-resolve)
+     Status: "Processing requests..."
+      Tasks: 1 (limit: 19141)
+     Memory: 7.3M ()
+     CGroup: /system.slice/systemd-resolved.service
+             └─137 /usr/lib/systemd/systemd-resolved
+
+Nov 02 16:11:58 DESKTOP-DUESANH systemd[1]: Started systemd-resolved.service - Network Name Resolution.
+Nov 02 16:16:16 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:16:47 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:17:19 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:17:51 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:18:23 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:18:54 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:19:26 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:19:58 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
+Nov 02 16:20:30 DESKTOP-DUESANH systemd-resolved[137]: Clock change detected. Flushing caches.
